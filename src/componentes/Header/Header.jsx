@@ -25,6 +25,7 @@ function Header() {
           <li>Sobre</li>
           <li>Contatos</li>
           <li>Delivery</li>
+          <a href="https://icons8.com.br/" target="_blank"> <li>Icones</li> </a> 
         </ul>
 
       </nav>
