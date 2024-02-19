@@ -65,3 +65,19 @@ button{
     height: 5vh;
     font-size: 1.3rem;
 }
+
+
+footer{
+    height: 30vh;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+}
+
+ .boxFooter{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
